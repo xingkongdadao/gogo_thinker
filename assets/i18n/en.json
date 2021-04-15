@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "Sales volume",
+		"sell_payed": "Payment amount",
+		"sell_unpaid": "Unpaid amount",
+		"shop_count": "Number of Stores",
+		"shop_count_by_category": "Number of stores in different categories",
+		"shop_count_include_cargo": "Number of stores with goods",
+		"shop_dashboard": "Shop dashboard",
+		"total_sell": "Total sales"
+	},
+	"language": {
+		"browser_language": "browser language",
+		"language": "english"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "All store areas",
+		"area": "Region",
+		"area_of_shop": "Shop area",
+		"category": "category",
+		"category_of_shop": "Store Type",
+		"city": "city",
+		"city_of_shop": "Shop city",
+		"dark": "dark",
+		"have_cargo": "have cargo",
+		"level": "level",
+		"level_of_shop": "Store level",
+		"light": "Bright",
+		"new_order": "New order",
+		"north": "North",
+		"outdoors": "Outdoor",
+		"satellite": "Satellite",
+		"street": "Street"
+	},
+	"map_add": {
+		"add_shop": "Add shop",
+		"north": "North",
+		"refresh": "Refresh"
+	},
+	"shop_add": {
+		"add": "Add to",
+		"add_shop": "Add shop",
+		"area_of_shop": "Shop area",
+		"category_of_shop": "Store Category",
+		"close": "shut down",
+		"country_of_shop": "Store Country",
+		"entity_shop": "Physical store",
+		"name_of_shop": "Store Name",
+		"short_brief": "Store description"
+	}
+}

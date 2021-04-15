@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "បរិមាណ​លក់",
+		"sell_payed": "ចំនួនទឹកប្រាក់ទូទាត់",
+		"sell_unpaid": "ចំនួនទឹកប្រាក់មិនបានបង់",
+		"shop_count": "ចំនួនហាង",
+		"shop_count_by_category": "ចំនួនហាងនៅក្នុងប្រភេទផ្សេងៗគ្នា",
+		"shop_count_include_cargo": "ចំនួនហាងដែលមានទំនិញ",
+		"shop_dashboard": "ហាងតាប្លូ",
+		"total_sell": "ការលក់សរុប"
+	},
+	"language": {
+		"browser_language": "ភាសាកម្មវិធីរុករក",
+		"language": "ជនជាតិចិន"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "តំបន់ហាងទាំងអស់",
+		"area": "តំបន់",
+		"area_of_shop": "តំបន់ហាង",
+		"category": "ប្រភេទ​នៃ",
+		"category_of_shop": "ប្រភេទហាង",
+		"city": "ទីក្រុង",
+		"city_of_shop": "ហាងទីក្រុង",
+		"dark": "ពណ៌ងងឹត",
+		"have_cargo": "នៅ​ក្នុង​ស្តុក",
+		"level": "ថ្នាក់",
+		"level_of_shop": "កម្រិតហាង",
+		"light": "ភ្លឺ",
+		"new_order": "ការ​កុ​ម្ម​ង់​ថ្មី",
+		"north": "ខាងជើង",
+		"outdoors": "ក្រៅ",
+		"satellite": "ផ្កាយរណប",
+		"street": "ផ្លូវ"
+	},
+	"map_add": {
+		"add_shop": "បន្ថែមហាង",
+		"north": "ខាងជើង",
+		"refresh": "ធ្វើ​ឱ្យ​ស្រស់"
+	},
+	"shop_add": {
+		"add": "បន្ថែម​លើ",
+		"add_shop": "បន្ថែមហាង",
+		"area_of_shop": "តំបន់ហាង",
+		"category_of_shop": "ប្រភេទហាង",
+		"close": "បិទ",
+		"country_of_shop": "ហាងប្រទេស",
+		"entity_shop": "ហាងរាងកាយ",
+		"name_of_shop": "ឈ្មោះហាង",
+		"short_brief": "ការពិពណ៌នាអំពីហាង"
+	}
+}

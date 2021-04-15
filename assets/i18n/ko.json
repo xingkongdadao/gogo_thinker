@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "판매량",
+		"sell_payed": "결제 금액",
+		"sell_unpaid": "미지급 금액",
+		"shop_count": "상점 수",
+		"shop_count_by_category": "다양한 카테고리의 매장 수",
+		"shop_count_include_cargo": "상품이있는 상점 수",
+		"shop_dashboard": "쇼핑 대시 보드",
+		"total_sell": "총 매출"
+	},
+	"language": {
+		"browser_language": "브라우저 언어",
+		"language": "영어"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "모든 매장 영역",
+		"area": "지역",
+		"area_of_shop": "상점 지역",
+		"category": "종류",
+		"category_of_shop": "상점 유형",
+		"city": "도시",
+		"city_of_shop": "쇼핑 도시",
+		"dark": "어두운 색",
+		"have_cargo": "재고",
+		"level": "등급",
+		"level_of_shop": "매장 수준",
+		"light": "선명한",
+		"new_order": "새로운 주문",
+		"north": "북쪽",
+		"outdoors": "집 밖의",
+		"satellite": "위성",
+		"street": "거리"
+	},
+	"map_add": {
+		"add_shop": "가게 추가",
+		"north": "북쪽",
+		"refresh": "새롭게 하다"
+	},
+	"shop_add": {
+		"add": "추가",
+		"add_shop": "가게 추가",
+		"area_of_shop": "상점 지역",
+		"category_of_shop": "매장 카테고리",
+		"close": "종료",
+		"country_of_shop": "매장 국가",
+		"entity_shop": "실제 매장",
+		"name_of_shop": "가게 이름",
+		"short_brief": "상점 설명"
+	}
+}

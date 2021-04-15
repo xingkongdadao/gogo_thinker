@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "Khối lượng bán hàng",
+		"sell_payed": "Số tiền thanh toán",
+		"sell_unpaid": "Số tiền chưa thanh toán",
+		"shop_count": "Số lượng cửa hàng",
+		"shop_count_by_category": "Số lượng cửa hàng trong các danh mục khác nhau",
+		"shop_count_include_cargo": "Số lượng cửa hàng có hàng hóa",
+		"shop_dashboard": "Bảng điều khiển cửa hàng",
+		"total_sell": "Tổng doanh số"
+	},
+	"language": {
+		"browser_language": "Ngôn ngữ trình duyệt",
+		"language": "tiếng việt"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "Tất cả các khu vực cửa hàng",
+		"area": "Khu vực",
+		"area_of_shop": "Khu vực cửa hàng",
+		"category": "Loại",
+		"category_of_shop": "Loại cửa hàng",
+		"city": "thành phố",
+		"city_of_shop": "Thành phố mua sắm",
+		"dark": "Màu tối",
+		"have_cargo": "Trong kho",
+		"level": "Cấp",
+		"level_of_shop": "Cấp độ cửa hàng",
+		"light": "Sáng",
+		"new_order": "Đơn hàng mới",
+		"north": "Bạc",
+		"outdoors": "Ngoài trời",
+		"satellite": "Vệ tinh",
+		"street": "đường phố"
+	},
+	"map_add": {
+		"add_shop": "Thêm cửa hàng",
+		"north": "Bạc",
+		"refresh": "Làm tươi"
+	},
+	"shop_add": {
+		"add": "Thêm",
+		"add_shop": "Thêm cửa hàng",
+		"area_of_shop": "Khu vực cửa hàng",
+		"category_of_shop": "Danh mục cửa hàng",
+		"close": "Tắt",
+		"country_of_shop": "Quốc gia cửa hàng",
+		"entity_shop": "Cửa hàng vật lý",
+		"name_of_shop": "Tên cửa hàng",
+		"short_brief": "Mô tả cửa hàng"
+	}
+}

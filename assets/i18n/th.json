@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "ปริมาณการขาย",
+		"sell_payed": "จำนวนเงินที่ชำระ",
+		"sell_unpaid": "จำนวนเงินที่ยังไม่ได้ชำระ",
+		"shop_count": "จำนวนร้านค้า",
+		"shop_count_by_category": "จำนวนร้านค้าในประเภทต่างๆ",
+		"shop_count_include_cargo": "จำนวนร้านค้าที่มีสินค้า",
+		"shop_dashboard": "แผงควบคุมร้านค้า",
+		"total_sell": "ยอดขายทั้งหมด"
+	},
+	"language": {
+		"browser_language": "ภาษาของเบราว์เซอร์",
+		"language": "ชาวจีน"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "พื้นที่ร้านค้าทั้งหมด",
+		"area": "พื้นที่",
+		"area_of_shop": "พื้นที่ร้านค้า",
+		"category": "ชนิด",
+		"category_of_shop": "ประเภทร้านค้า",
+		"city": "เมือง",
+		"city_of_shop": "เมืองร้านค้า",
+		"dark": "สีเข้ม",
+		"have_cargo": "มีสินค้า",
+		"level": "เกรด",
+		"level_of_shop": "ระดับร้านค้า",
+		"light": "สดใส",
+		"new_order": "คำสั่งซื้อใหม่",
+		"north": "ทิศเหนือ",
+		"outdoors": "กลางแจ้ง",
+		"satellite": "ดาวเทียม",
+		"street": "ถนน"
+	},
+	"map_add": {
+		"add_shop": "เพิ่มร้านค้า",
+		"north": "ทิศเหนือ",
+		"refresh": "รีเฟรช"
+	},
+	"shop_add": {
+		"add": "เพิ่ม",
+		"add_shop": "เพิ่มร้านค้า",
+		"area_of_shop": "พื้นที่ร้านค้า",
+		"category_of_shop": "หมวดหมู่ร้านค้า",
+		"close": "ปิดตัวลง",
+		"country_of_shop": "ประเทศร้านค้า",
+		"entity_shop": "ร้านค้าทางกายภาพ",
+		"name_of_shop": "ชื่อร้าน",
+		"short_brief": "รายละเอียดร้านค้า"
+	}
+}

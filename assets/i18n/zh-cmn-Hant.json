@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "銷售數量",
+		"sell_payed": "付款金額",
+		"sell_unpaid": "未付款金額",
+		"shop_count": "店鋪數量",
+		"shop_count_by_category": "不同類別的店鋪數量",
+		"shop_count_include_cargo": "有貨物的店鋪數量",
+		"shop_dashboard": "店鋪儀表板",
+		"total_sell": "總銷售額"
+	},
+	"language": {
+		"browser_language": "瀏覽器語言",
+		"language": "英語"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "所有店鋪區域",
+		"area": "區域",
+		"area_of_shop": "店鋪區域",
+		"category": "類型",
+		"category_of_shop": "店鋪類型",
+		"city": "城市",
+		"city_of_shop": "店鋪城市",
+		"dark": "深色",
+		"have_cargo": "有貨",
+		"level": "等級",
+		"level_of_shop": "店舖等級",
+		"light": "明亮",
+		"new_order": "新訂單",
+		"north": "北",
+		"outdoors": "戶外",
+		"satellite": "衛星",
+		"street": "街道"
+	},
+	"map_add": {
+		"add_shop": "添加店鋪",
+		"north": "北",
+		"refresh": "刷新"
+	},
+	"shop_add": {
+		"add": "添加",
+		"add_shop": "添加店鋪",
+		"area_of_shop": "店鋪區域",
+		"category_of_shop": "店鋪類別",
+		"close": "關閉",
+		"country_of_shop": "店鋪國家",
+		"entity_shop": "實體店鋪",
+		"name_of_shop": "店鋪名稱",
+		"short_brief": "店鋪描述"
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "販売量",
+		"sell_payed": "支払金額",
+		"sell_unpaid": "未払い額",
+		"shop_count": "店舗数",
+		"shop_count_by_category": "さまざまなカテゴリの店舗数",
+		"shop_count_include_cargo": "商品のある店舗の数",
+		"shop_dashboard": "ショップダッシュボード",
+		"total_sell": "総売上高"
+	},
+	"language": {
+		"browser_language": "ブラウザの言語",
+		"language": "英語"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "すべての店舗エリア",
+		"area": "範囲",
+		"area_of_shop": "ショップエリア",
+		"category": "タイプ",
+		"category_of_shop": "店舗タイプ",
+		"city": "街",
+		"city_of_shop": "ショップシティ",
+		"dark": "暗色",
+		"have_cargo": "在庫あり",
+		"level": "ランク",
+		"level_of_shop": "店舗レベル",
+		"light": "明るい",
+		"new_order": "新規注文",
+		"north": "北",
+		"outdoors": "アウトドア",
+		"satellite": "衛星",
+		"street": "通り"
+	},
+	"map_add": {
+		"add_shop": "ショップを追加",
+		"north": "北",
+		"refresh": "更新する"
+	},
+	"shop_add": {
+		"add": "追加する",
+		"add_shop": "ショップを追加",
+		"area_of_shop": "ショップエリア",
+		"category_of_shop": "ストアカテゴリ",
+		"close": "閉じる",
+		"country_of_shop": "保管国",
+		"entity_shop": "実店舗",
+		"name_of_shop": "店名",
+		"short_brief": "店舗説明"
+	}
+}

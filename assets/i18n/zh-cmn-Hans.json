@@ -1,0 +1,61 @@
+{
+	"dashboard": {
+		"sell_count": "销售数量",
+		"sell_payed": "付款金额",
+		"sell_unpaid": "未付款金额",
+		"shop_count": "店铺数量",
+		"shop_count_by_category": "不同类别的店铺数量",
+		"shop_count_include_cargo": "有货物的店铺数量",
+		"shop_dashboard": "店铺仪表板",
+		"total_sell": "总销售额"
+	},
+	"language": {
+		"browser_language": "浏览器语言",
+		"language": "中文"
+	},
+	"login": {
+		"inputPassword": "",
+		"inputUsername": "",
+		"login": "",
+		"password": "",
+		"register": "",
+		"tile": "",
+		"userOrPasswordNotRight": "",
+		"username": ""
+	},
+	"map-pd": {
+		" area_of_all_shop": "所有店铺区域",
+		"area": "区域",
+		"area_of_shop": "店铺区域",
+		"category": "类型",
+		"category_of_shop": "店铺类型",
+		"city": "城市",
+		"city_of_shop": "店铺城市",
+		"dark": "深色",
+		"have_cargo": "有货",
+		"level": "等级",
+		"level_of_shop": "店铺等级",
+		"light": "明亮",
+		"new_order": "新订单",
+		"north": "北",
+		"outdoors": "户外",
+		"satellite": "卫星",
+		"street": "街道"
+	},
+	"map_add": {
+		"add_shop": "添加店铺",
+		"north": "北",
+		"refresh": "刷新"
+	},
+	"shop_add": {
+		"add": "添加",
+		"add_shop": "添加店铺",
+		"area_of_shop": "店铺区域",
+		"category_of_shop": "店铺类别",
+		"close": "关闭",
+		"country_of_shop": "店铺国家",
+		"entity_shop": "实体店铺",
+		"name_of_shop": "店铺名称",
+		"short_brief": "店铺描述"
+	}
+}
